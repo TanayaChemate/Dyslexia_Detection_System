@@ -1,4 +1,3 @@
-"""
 # Dyslexia Detection Web App
 
 A Python-based web application to detect dyslexia traits using handwriting samples and text input analysis, 
@@ -111,4 +110,9 @@ The frontend is built with Streamlit, and machine learning models are used for h
 
 ## License
 Educational purposes only. Use responsibly.
-"""
+
+## Team Members
+UCE2023603 - Ahilya Kerle
+UCE2023613 - Tanaya Cheamte
+UCE2023621 - Ishwari Gojare
+
