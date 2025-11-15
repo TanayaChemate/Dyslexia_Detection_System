@@ -112,7 +112,7 @@ The frontend is built with Streamlit, and machine learning models are used for h
 Educational purposes only. Use responsibly.
 
 ## Team Members
-UCE2023603 - Ahilya Kerle
-UCE2023613 - Tanaya Cheamte
+UCE2023603 - Ahilya Kerle || 
+UCE2023613 - Tanaya Cheamte || 
 UCE2023621 - Ishwari Gojare
 
